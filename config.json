@@ -1,0 +1,31 @@
+{
+    "token": "MTA2NjczOTc5MjMxNTk0NTAzMQ.GWSMh3.hyeG_ctTivVfewzVuz266rkKFNOSnjiIObHP-E",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/1071383469042700400/MZueSEMyop0u28-j8vbJgRrCJ5Bmqif_K_is5hdfxZ2bDPbIVqpPPXh-QO8kBLErR5V9": {
+            "url": "https://www.vinted.fr/catalog?search_text=nike+tech",
+            "salon": "zalando"
+        },
+        "https://discord.com/api/webhooks/1071384093138358334/fHggYVe5ip6bMQNz5mAifkT0XiH5mi07Pl5pmc21aCzSDoWwBMjdND6yhTH0ggs1q7IY": {
+            "url": "https://www.vinted.fr/catalog?search_text=nike",
+            "salon": "zalando"
+        },
+        "https://discord.com/api/webhooks/1071384650439721002/bDsUaFR04qqjVFsfdlaOiYFY8T6Fm_4snvgJ85yFOW0sYUQPIhCFGOifpAoc9zCBH9d_": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&size_id[]=208&catalog[]=5",
+            "salon": "zalando"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
